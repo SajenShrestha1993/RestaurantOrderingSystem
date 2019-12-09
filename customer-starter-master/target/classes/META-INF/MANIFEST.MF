@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sajen.shrestha@ibm.com
+Build-Jdk: 12.0.1
+Implementation-Title: menums
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ibm.newhire
+Implementation-URL: http://maven.apache.org
+Main-Class: com.ibm.newhire.customerms.Application
+Created-By: Maven Integration for Eclipse
+
